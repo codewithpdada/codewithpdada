@@ -1,4 +1,4 @@
-# 🚀 BCA Student Learning & Career Roadmap
+# 🚀 BCA Student Learning & Career Roadmap 
 
 Welcome to the ultimate guide and roadmap for **Bachelor of Computer Applications (BCA)** students! This repository serves as a structured, step-by-step framework to navigate through college semesters, build high-value technical skills, and prepare for industry placements or higher studies.
  
