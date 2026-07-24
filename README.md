@@ -21,7 +21,7 @@ Welcome to the ultimate guide and roadmap for **Bachelor of Computer Application
 ## 📖 Overview
 
 The standard university curriculum often focuses heavily on theoretical concepts. This roadmap bridges the gap between academic learning and industry expectations, helping BCA students master core Computer Science fundamentals, build practical real-world projects, and secure software engineering, web development, or data roles.
-
+ 
 ---
 
 ## 🗺️ 3-Year Roadmap
