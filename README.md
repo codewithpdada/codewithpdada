@@ -5,7 +5,7 @@ Welcome to the ultimate guide and roadmap for **Bachelor of Computer Application
 ---           
 
 ## 📌 Table of Contents
-- [Overview](#-overview)
+- [Overview](#-overview) 
 - [3-Year Roadmap](#-3-year-roadmap)
   - [Year 1: Foundations & Logic](#year-1-foundations--logic-semesters-1--2)
   - [Year 2: DSA, Databases & Specialization](#year-2-dsa-databases--specialization-semesters-3--4)
