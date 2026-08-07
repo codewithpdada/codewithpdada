@@ -4,7 +4,7 @@ Welcome to the ultimate guide and roadmap for **Bachelor of Computer Application
      
 ---                 
 
-## 📌 Table of Contents
+## 📌 Table of Contents   
 - [Overview](#-overview) 
 - [3-Year Roadmap](#-3-year-roadmap)
   - [Year 1: Foundations & Logic](#year-1-foundations--logic-semesters-1--2)
