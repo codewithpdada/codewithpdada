@@ -35,7 +35,7 @@ The standard university curriculum often focuses heavily on theoretical concepts
 * **Version Control:** Git & GitHub — Start hosting every small script and project online.
 * 🎯 **Milestone Projects:** Command-Line Interface (CLI) tools, Personal Portfolio Website, Simple Calculator app.
 
----
+--- 
 
 ### Year 2: DSA, Databases & Specialization (Semesters 3 & 4)
 > **Goal:** Master core computer science theories, problem-solving, and choose a domain specialization.
