@@ -3,7 +3,7 @@
 Welcome to the ultimate guide and roadmap for **Bachelor of Computer Applications (BCA)** students! This repository serves as a structured, step-by-step framework to navigate through college semesters, build high-value technical skills, and prepare for industry placements or higher studies.
         
 ---                         
-  
+   
 ## 📌 Table of Contents        
 - [Overview](#-overview) 
 - [3-Year Roadmap](#-3-year-roadmap) 
@@ -17,7 +17,7 @@ Welcome to the ultimate guide and roadmap for **Bachelor of Computer Application
 - [License](#-license)
  
 ---
-
+ 
 ## 📖 Overview
 
 The standard university curriculum often focuses heavily on theoretical concepts. This roadmap bridges the gap between academic learning and industry expectations, helping BCA students master core Computer Science fundamentals, build practical real-world projects, and secure software engineering, web development, or data roles.
