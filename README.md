@@ -49,7 +49,7 @@ The standard university curriculum often focuses heavily on theoretical concepts
   * 📊 *Data & AI:* Python, Pandas, NumPy, Machine Learning basics.
 * 🎯 **Milestone Projects:** 1 Full-Stack or Domain-Specific Application deployed live. Begin solving DSA problems on LeetCode/HackerRank.
 
---- 
+---  
 
 ### Year 3: Advanced Concepts & Career Launch (Semesters 5 & 6)
 > **Goal:** System architecture, industry-ready capstone project, and placement preparation.
