@@ -16,7 +16,7 @@ Welcome to the ultimate guide and roadmap for **Bachelor of Computer Application
 - [Contributing](#-contributing  
 - [License](#-license)
  
----
+---    
  
 ## 📖 Overview 
 
@@ -35,7 +35,7 @@ The standard university curriculum often focuses heavily on theoretical concepts
 * **Version Control:** Git & GitHub — Start hosting every small script and project online.
 * 🎯 **Milestone Projects:** Command-Line Interface (CLI) tools, Personal Portfolio Website, Simple Calculator app.
 
---- 
+---    
 
 ### Year 2: DSA, Databases & Specialization (Semesters 3 & 4)
 > **Goal:** Master core computer science theories, problem-solving, and choose a domain specialization.
@@ -49,7 +49,7 @@ The standard university curriculum often focuses heavily on theoretical concepts
   * 📊 *Data & AI:* Python, Pandas, NumPy, Machine Learning basics.
 * 🎯 **Milestone Projects:** 1 Full-Stack or Domain-Specific Application deployed live. Begin solving DSA problems on LeetCode/HackerRank.
 
----   
+---     
   
 ### Year 3: Advanced Concepts & Career Launch (Semesters 5 & 6)
 > **Goal:** System architecture, industry-ready capstone project, and placement preparation.
