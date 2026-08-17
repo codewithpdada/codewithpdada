@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Animated Header SVG / Typing Effect -->
+  <!-- Animated Header SVG / Typing Effect --> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Welcome+to+My+Awesome+Project!;Built+for+Speed+%26+Simplicity;100%25+Open+Source" alt="Typing SVG" />
   </a>
